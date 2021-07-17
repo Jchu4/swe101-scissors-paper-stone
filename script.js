@@ -1,5 +1,6 @@
 // Scissors-Paper-Stone Game V4 (Add Korean SPS Game Mode & Ability to Swtich Versions)
 var test = "Hello world test"
+var test2 = "Eric"
 
 // Set Default game mode
 var mode = 'original';
